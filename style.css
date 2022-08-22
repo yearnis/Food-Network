@@ -1,0 +1,107 @@
+body {
+
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.first {
+    width: 50%;
+    margin-left: 150px;
+
+    padding-left: 7%;
+    padding-right: 10%;
+}
+
+.first img {
+    width: 100%;
+}
+
+span {
+    color: orange;
+}
+
+h2 {
+
+    font-weight: bold;
+    font-weight: 800px;
+
+    color: rgba(0, 0, 0, 0.859);
+
+}
+
+.bb {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(255, 42, 0));
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+p {
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 160%;
+
+    color: #828282;
+}
+
+.top-banner {
+    background-image: url("/img/Frame\ 59.jpg");
+    background-repeat: none;
+}
+
+.recepie {
+    text-align: center;
+}
+
+.first1 {
+    box-shadow: 15px 15px 15px grey;
+    padding: 7%;
+    background-color: #FFFFFF;
+    margin-left: 8%;
+    margin-right: 2%;
+    width: 50%;
+    border-radius: 30px;
+
+}
+
+
+.f {
+    font-size: 12px;
+}
+
+.first1 img {
+    width: 100%;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 15%;
+    padding: 2px;
+
+}
+
+.top {
+    background-color: wheat;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-right: 20%;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.Network Color {
+    Color: blue;
+
+}
