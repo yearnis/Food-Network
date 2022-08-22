@@ -63,7 +63,10 @@ p {
 
 .first1 {
     box-shadow: 15px 15px 15px grey;
-    padding: 7%;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 5%;
     background-color: #FFFFFF;
     margin-left: 8%;
     margin-right: 2%;
@@ -74,23 +77,30 @@ p {
 
 
 .f {
-    font-size: 12px;
+    font-size: 14px;
+    text-align: left;
 }
+
+.recipie center {
+    text-align: left;
+    font-size: 20px;
+}
+
+
 
 .first1 img {
     width: 100%;
-    border: 1px solid;
-    border-radius: 10px;
     margin-top: 15%;
-    padding: 2px;
+    padding-bottom: 35%;
 
 }
 
 .top {
-    background-color: wheat;
+    background-color: whitesmoke;
     margin-right: 5%;
     margin-left: 5%;
     padding-right: 20%;
+
 }
 
 footer {
